@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Woo Chat</string>
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="goback">goBack</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Please enter your email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Please enter your password</string>
+    <string name="signUp_hint">Don\'t have an account?</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="nickname_hint">Please entey your nickname</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="Add">Add</string>
+    <string name="friends_count">Friends()</string>
+    <string name="friend_image">Friend Image</string>
+    <string name="friend_name">Friend Name</string>
+    <string name="user_name">User Name</string>
+    <string name="user_id">User Id</string>
+    <string name="user_email">User Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="you">You</string>
+    <string name="google_login">Google Login</string>
+    <string name="send">Send</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="select_image_from_gallery">Select Image From Gallery</string>
+    <string name="select_an_image">Select An Image</string>
+    <string name="friends">Friends</string>
+    <string name="chat">Chat</string>
+    <string name="settings">Settings</string>
+    <string name="friend_s_name">Friend\'s name</string>
+</resources>
